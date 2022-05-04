@@ -225,9 +225,9 @@ footer .media{
     padding: 15px;
     margin-bottom: 10px;
 }
-footer .media img{
+footer.media img,.footer-icones{
     background-color: var(--primary-ad-color);
-    color: var(--white-ad-color);
+    color: var(--black-ad-color);
     padding: 5px;
     border-radius: 50%;
 }
