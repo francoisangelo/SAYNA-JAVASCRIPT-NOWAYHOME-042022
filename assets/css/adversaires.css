@@ -98,10 +98,12 @@ ul{
 #hero .description{
     font-weight: bold;
     font-size: 1.4em;
+    display: none;
 }
 
 #hero .box{
     position: relative;
+    left: -40%;
     top: 25%;
 }
 
